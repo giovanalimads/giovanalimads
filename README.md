@@ -1,7 +1,7 @@
 ## Hi there, i'm Giovana!
 **A Front-End Developer by day and a formula one fan by night**
 
-- Student of Análise e Desenvolvimento de Sistemas
+- Systems Analysis and Development Student
 - I'm currently learning JavaScript and Tailwind CSS
 - I like fomrula one, anime, read and write in my free time.
 
