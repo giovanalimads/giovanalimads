@@ -3,7 +3,7 @@
 
 - Systems Analysis and Development Student
 - I'm currently learning JavaScript and Tailwind CSS
-- I like fomrula one, anime, read and write in my free time.
+- I like formula one, anime, read and write in my free time.
 
 
 ![b1d019e9c4352865d2963efac66d0c87](https://github.com/user-attachments/assets/05bf6a67-4a2a-47e0-a5be-b30162311b0a)
