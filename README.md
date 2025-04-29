@@ -5,8 +5,9 @@
 - I'm currently learning JavaScript and Tailwind CSS
 - I like formula one, anime, read and write in my free time.
 
+![pinterestdownloader com-1745941882 37364](https://github.com/user-attachments/assets/3a78c599-b768-4b40-9ccc-c8f31e9aa30b)
 
-![b1d019e9c4352865d2963efac66d0c87](https://github.com/user-attachments/assets/05bf6a67-4a2a-47e0-a5be-b30162311b0a)
+
 
 ## My personal projects <3
 Here is a list of my **personal projects**:
