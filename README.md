@@ -2,7 +2,7 @@
 **A Front-End Developer by day and a formula one fan by night**
 
 - Systems Analysis and Development Student
-- I'm currently learning JavaScript and Tailwind CSS
+- I'm currently learning Node.js and Typescript
 - I like formula one, anime, read and write in my free time.
 
 ![pinterestdownloader com-1745941882 37364](https://github.com/user-attachments/assets/3a78c599-b768-4b40-9ccc-c8f31e9aa30b)
