@@ -1,10 +1,9 @@
 ## Hi there, i'm Giovana!
 **A Front-End Developer by day and a formula one fan by night**
 
-- Systems Analysis and Development Student
-- I'm currently learning Node.js and Typescript
-- I like formula one, anime, read and write in my free time.
-
+- Front-End Developer focused on building **responsive**, **accessible** and **user-centered** interfaces.
+- Graduated in **Systems Analysis and Development**, with a strong interest in modern web technologies.
+  
 ![pinterestdownloader com-1745941882 37364](https://github.com/user-attachments/assets/3a78c599-b768-4b40-9ccc-c8f31e9aa30b)
 
 
@@ -15,7 +14,6 @@ Here is a list of my **personal projects**:
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-lima53)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kseokcherry/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:giovanalimaoliveira05@gmail.com)
 
 ## Habilidades
@@ -28,5 +26,3 @@ Here is a list of my **personal projects**:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-## Status do GitHub
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovanalimads&layout=compact&bg_color=000&border_color=fff&title_color=fff&text_color=FFF)
